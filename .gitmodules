@@ -1,3 +1,15 @@
 [submodule "search_page"]
 	path = search_page
 	url = https://github.com/jesusrp98/search_page
+[submodule "cherry_components"]
+	path = cherry_components
+	url = https://github.com/jesusrp98/cherry_components
+[submodule "expand_widget"]
+	path = expand_widget
+	url = https://github.com/jesusrp98/expand_widget
+[submodule "big_tip"]
+	path = big_tip
+	url = https://github.com/jesusrp98/big_tip
+[submodule "row_item"]
+	path = row_item
+	url = https://github.com/jesusrp98/row_item
